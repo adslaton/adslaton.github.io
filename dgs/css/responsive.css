@@ -107,6 +107,11 @@ article h3 {
 	line-height: 25px;
 }
 
+.promo-image {
+	width: 290px;
+	margin: 0 auto;
+}
+
 /* Smartphones to Tablets */
 
 @media (min-width: 481px) and (max-width: 767px) {
