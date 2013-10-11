@@ -82,7 +82,6 @@ article h3 {
 }
 
 .menu-button {
-	border: 1px solid black;
 	width: 40px;
 	height: 40px;
 	cursor: pointer;
@@ -107,6 +106,7 @@ menu .menu-item {
 	text-align: center;
 	color: gray;
 	font-size: 18px;
+	text-shadow: 1px 1px black;
 }
 
 .show {

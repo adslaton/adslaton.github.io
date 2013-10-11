@@ -13,10 +13,13 @@ jQuery(document).ready(function($) {
 	getMenu();
 
 	menuButton.on('click', function() {
+		var self = $(this);
 		if (menu.hasClass('show')) {
 			menu.removeClass('show');
+			self.html('SHOW MENU');
 		} else {
 			menu.addClass('show');
+			self.html('HIDE MENU');
 		}
 	});
 });
