@@ -123,8 +123,12 @@ menu .menu-item {
 }
 
 .promo-image {
-	width: 290px;
+	text-align: center;
 	margin: 0 auto;
+}
+
+.promo-image img {
+	width: 150px;
 }
 
 /* page styles */
