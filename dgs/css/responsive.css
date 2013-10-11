@@ -152,14 +152,11 @@ footer {
 	padding: 0 25px;
 }
 
-#footerCopyright	{
-	float: left;
-	margin-left: 15px;
+#footerCopyright,
+#footerLogos {
+	margin:0 0 15px 15px;
 }
-#footerLogos	{
-	float: right;
-	margin-right: 25px;
-}
+
 
 
 	
