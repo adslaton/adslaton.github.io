@@ -10,7 +10,7 @@ body {
 	font: 11px Verdana, Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding:0;
-	background: #000f22 url(http://deltaglobalstaffing.com/images/bgr.jpg) repeat-x;
+	/*background: #000f22 url(http://deltaglobalstaffing.com/images/bgr.jpg) repeat-x;*/
 	min-height:100%;
 	behavior: url(http://deltaglobalstaffing.com/csshover.htc);
 }
@@ -40,20 +40,8 @@ footer {
 	padding: 0;
 }
 
-menu,
-footer {
-	max-width: 930px;
-	margin: 0 auto;
-}
-
 article {
-	max-width: 890px;
-	margin: 0 auto;
-	padding: 0 15px;
-}
-
-menu {
-	overflow-y: scroll;
+	padding: 0 40px;
 }
 
 li.header-tag {
@@ -72,19 +60,9 @@ li.header-tag span {
 	display: block;
 }
 
-menu li {
-	display: inline-block;
-}
-
 header	{
 	text-align: center;
 	margin-bottom: -4px;
-}
-
-#menu {
-	border: 0px solid black;
-	height: 54px;
-	overflow-y: scroll;
 }
 
 .page-title {
@@ -97,6 +75,43 @@ header	{
 article p,
 article h3 {
 	font-size: 14px;
+}
+
+.menu-container {
+	display: none;
+}
+
+.menu-button {
+	border: 1px solid black;
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+	display: inline-block;
+	vertical-align: top;
+	position: fixed;
+	top: 0;
+	text-align: center;
+	padding: 10px 3px 0;
+}
+
+menu {
+	position: absolute;
+	top: 0;
+	width: 90%;
+}
+
+menu .menu-item {
+	padding: 20px;
+	border-right: 1px solid beige;
+	border-bottom: 1px solid beige;
+	text-align: center;
+	color: gray;
+	font-size: 18px;
+}
+
+.show {
+	width: 80%;
+	display: inline-block;
 }
 
 .promo-text {
@@ -112,112 +127,40 @@ article h3 {
 	margin: 0 auto;
 }
 
-/* Smartphones to Tablets */
-
-@media (min-width: 481px) and (max-width: 767px) {
-
+/* page styles */
+#container1	{
+	float: left;
+	width: 276px;
+	margin-left: 40px;
+}
+#container1Right	{
+	float: right;
 }
 
-/* Tablets */
-
-@media (min-width: 768px) and (max-width: 959px) {
-
+#container2	{
+	float: left;
+	width: 275px;
+	margin-left: 12px;
 }
-
-/* Desktop --- */
-
-/*@media (min-width: 960px) and (max-width: 1199px) {*/
-	/* page styles */
-	#header	{
-		/*width:930px;
-		margin:0 auto;*/
-	}
-	#page-box {
-		/*width:994px;
-		margin:0 auto;
-		overflow:hidden;
-		background:url(http://deltaglobalstaffing.com/images/shadowbgr.png) no-repeat;*/
-	}
-
-	#nav {
-		/*float: left;
-		margin-top: 2px;
-		width: 930px;
-		background:url(http://deltaglobalstaffing.com/images/nav_bckgrnd.jpg) repeat-x;*/
-	}
-	#nav table	{
-		float: right;
-
-	}
-	#contentholder {
-		float: left;
-		margin-left: 37px;
-	}
-	#rotatingAd1	{
-		/*float: left;
-		width: 930px;*/
-	}
-	br.clear {clear:both;}
-
-	#newsletter	{
-		float: right;
-		z-index: 100000;
-	}
-	#containerShell	{
-		/*float: left;
-		width: 930px;
-		padding-top: 25px;
-		background:url(http://deltaglobalstaffing.com/images/ads_bckgrnd.jpg) top left;
-		height: 257px;*/
-	}
-	#containerShell2	{
-		/*float: left;
-		width: 930px;
-		padding-top: 25px;
-		background:url(http://deltaglobalstaffing.com/images/ads_bckgrnd2.jpg) top left;
-		height: 207px;*/
-	}
-	#container1	{
-		float: left;
-		width: 276px;
-		margin-left: 40px;
-	}
-	#container1Right	{
-		float: right;
-	}
-
-	#container2	{
-		float: left;
-		width: 275px;
-		margin-left: 12px;
-	}
-	#container3	{
-		float: right;
-		width: 275px;
-		margin-right: 40px;
-	}
-	#footer	{
-		/*float: left;
-		width: 930px;
-		background-color: #000f22;
-		padding: 15px;*/
-	}
-	#footerCopyright	{
-		float: left;
-		margin-left: 15px;
-	}
-	#footerLogos	{
-		float: right;
-		margin-right: 25px;
-	}
-/*}*/
-
-/* Large Display ---- */
-/*
-@media (min-width: 1200px) {
-
+#container3	{
+	float: right;
+	width: 275px;
+	margin-right: 40px;
 }
-*/
+#footer	{
+	/*float: left;
+	width: 930px;
+	background-color: #000f22;
+	padding: 15px;*/
+}
+#footerCopyright	{
+	float: left;
+	margin-left: 15px;
+}
+#footerLogos	{
+	float: right;
+	margin-right: 25px;
+}
 
 
 	
