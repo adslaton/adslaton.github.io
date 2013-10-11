@@ -10,7 +10,6 @@ body {
 	font: 11px Verdana, Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding:0;
-	/*background: #000f22 url(http://deltaglobalstaffing.com/images/bgr.jpg) repeat-x;*/
 	min-height:100%;
 	behavior: url(http://deltaglobalstaffing.com/csshover.htc);
 }
@@ -63,6 +62,7 @@ li.header-tag span {
 header	{
 	text-align: center;
 	margin-bottom: -4px;
+	background: url(../images/elements/dgs_pg_bk.png);
 }
 
 .page-title {
