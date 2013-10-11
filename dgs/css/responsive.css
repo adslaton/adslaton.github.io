@@ -147,12 +147,11 @@ menu .menu-item {
 	width: 275px;
 	margin-right: 40px;
 }
-#footer	{
-	/*float: left;
-	width: 930px;
-	background-color: #000f22;
-	padding: 15px;*/
+
+footer {
+	padding: 0 25px;
 }
+
 #footerCopyright	{
 	float: left;
 	margin-left: 15px;
