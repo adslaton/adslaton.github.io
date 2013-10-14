@@ -61,15 +61,15 @@
       <h3>Owners and Employers, let us help you find the right candidate for your open positions!</h3>
       <form action="http://deltaglobalstaffing.com/clientservices_email.php" method="post" name="frm" id="frm">
         <ul>
-          <li><label>Name:</label>
-          <li><input name="name">
-          <li><label>Email Address:</label>
-          <li><input name="email">
-          <li><label>Company You Represent:</label>
-          <li><input name="company" required="" displayname="Company You Represent">
-          <li><label>Phone:</label>
-          <li><input name="phone">
-          <li><label>How did you hear about Delta Global Staffing?</label>
+          <li><label>Name:</label></li>
+          <li><input name="name"></li>
+          <li><label>Email Address:</label></li>
+          <li><input name="email"></li>
+          <li><label>Company You Represent:</label></li>
+          <li><input name="company" required="" displayname="Company You Represent"></li>
+          <li><label>Phone:</label></li>
+          <li><input name="phone"></li>
+          <li><label>How did you hear about Delta Global Staffing?</label></li>
           <li><select name="how_did_you_hear">
             <option selected="" value="">- Please select -</option>
             <option value="Facebook">Facebook</option>
@@ -83,18 +83,18 @@
             <option value="Web">Web</option>
             <option value="DGS Representative">DGS Representative</option>
             <option value="Other">Other</option>
-          </select>
-          <li><br/>We will be happy to contact you with more information about any of our services. Please select your areas of interest:
-          <li><input name="areas_of_interest1" value="Administrative Services" type="checkbox"> Administrative Services
-          <li><input name="areas_of_interest2" value="Managed Service Provider" type="checkbox"> Managed Service Provider
-          <li><input name="areas_of_interest3" value="Project Hiring" type="checkbox"> Project Hiring
-          <li><input name="areas_of_interest4" value="Recruiting" type="checkbox"> Recruiting
-          <li><input name="areas_of_interest5" value="Screening &amp; Assessment" type="checkbox"> Screening &amp; Assessment
-          <li><br/>What type of employee are you looking for?:
-          <li><input type="checkbox" name="type_of_employee1" value="Direct Hire"> Direct Hire
-          <li><input type="checkbox" name="type_of_employee2" value="Temporary"> Temporary
-          <li><input type="checkbox" name="type_of_employee3" value="Temp To Hire"> Temp To Hire
-          <li><br/><input type="button" value="submit" style="color:black;background-color:white;width:150px;" onclick="checkRequired()">
+          </select></li>
+          <li class="head">We will be happy to contact you with more information about any of our services. Please select your areas of interest:</li>
+          <li class="radio"><input name="areas_of_interest1" value="Administrative Services" type="checkbox"> Administrative Services</li>
+          <li class="radio"><input name="areas_of_interest2" value="Managed Service Provider" type="checkbox"> Managed Service Provider</li>
+          <li class="radio"><input name="areas_of_interest3" value="Project Hiring" type="checkbox"> Project Hiring</li>
+          <li class="radio"><input name="areas_of_interest4" value="Recruiting" type="checkbox"> Recruiting</li>
+          <li class="radio"><input name="areas_of_interest5" value="Screening &amp; Assessment" type="checkbox"> Screening &amp; Assessment</li>
+          <li class="head">What type of employee are you looking for?:</li>
+          <li class="radio"><input type="checkbox" name="type_of_employee1" value="Direct Hire"> Direct Hire</li>
+          <li class="radio"><input type="checkbox" name="type_of_employee2" value="Temporary"> Temporary</li>
+          <li class="radio"><input type="checkbox" name="type_of_employee3" value="Temp To Hire"> Temp To Hire</li>
+          <li><input type="button" value="submit" style="color:black;background-color:white;width:150px;" onclick="checkRequired()"></li>
         </ul>
       </form>
     </article>
