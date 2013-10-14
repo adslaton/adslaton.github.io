@@ -49,7 +49,7 @@ jQuery(document).ready(function($) {
 				if (jobs.hasOwnProperty(job)) {
 					li = '<div>Title: ' + jobs[job].title + '</div>';
 					li += '<div>Location: ' + jobs[job].location + '</div>';
-					li += '<a href="/job.html#' + job + '"><div class="button bk-darkred center">full description</div></a>'; 
+					li += '<a href="job.html#' + job + '"><div class="button bk-darkred center">full description</div></a>'; 
 					html = html + '<li class="job">' + li;
 				}
 			}
