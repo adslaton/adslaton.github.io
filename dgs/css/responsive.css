@@ -7,7 +7,7 @@ html {
 
 body {
 	color: #FFF;	
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	font: 14px Verdana, Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding:0;
 	min-height:100%;
@@ -24,9 +24,19 @@ a,
 a:hover {
 	text-decoration: none;
 }
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: orange;
+}
+
 p {
 	margin: 0 0 15px;
 }
+
 img {
 	border: none;
 }
@@ -82,7 +92,7 @@ article h3 {
 }
 
 .menu-button {
-	width: 40px;
+	width: 50px;
 	height: 40px;
 	cursor: pointer;
 	display: inline-block;
@@ -166,7 +176,7 @@ footer {
 }
 
 input {
-	width: 100%;
+	width: 99%;
 	height: 30px;
 	margin: 15px 0;
 }
@@ -175,5 +185,28 @@ button {
 	height: 35px;
 	margin: 15px 0;
 	width: 80px;
+}
+
+.divider {
+	padding: 20px 0;
+}
+
+.job {
+	margin: 20px 0;
+	font-size: 16px;
+	border-bottom: 1px dotted;
+}
+
+.button {
+	padding: 10px;
+	margin: 10px 0;
+}
+
+.details li {
+	margin: 20px 0;
+}
+
+.head {
+	border-bottom: 1px dotted;
 }
 	

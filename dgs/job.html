@@ -25,37 +25,25 @@
 
     <article>
       <h2 class="page-title">JOB SEARCH</h2>
-      <form name="frm" id="frm" action="job_board.php" method="post">
-        <ul>
-          <li>
-            <label>Keyword:</label>
-          <li>
-            <input type="text" name="searchStr" value="">
-          <li>
-            <label>Job Title:</label>
-          <li>
-            <input type="text" name="title" value="">
-          <li>
-            <label>City:</label>
-          <li>
-            <input type="text" name="city" value="">
-          <li>
-            <label>State:</label>
-          <li>
-            <input type="text" name="state" value="">
-          <li class="center">
-            <button type="submit" value="search">SEARCH</button>
-        </ul>
-      </form>
-      <div>
-        <div class="divider">
-            <span><a href="#recid=167">Create Profile (Without Applying For Specific Job)</a></span>
-        </div>
-        <div id="js-jobs"></div>
-        <div class="divider">
-            <span><a href="#recid=167">Create Profile (Without Applying For Specific Job)</a></span>
-        </div>
-      </div>
+      <ul class="details">
+        <li>TITLE: <span id="js-title"></span></li>
+        <li><a href="jobsearch.html"><div class="button bk-darkred center">back to listings</div></a></li>
+        <li>LOCATION: <span id="js-location"></span></li>
+        <li class="head">SUMMARY</li>
+        <li><span id="js-summary"></span></li>
+        <li><ul id="js-details"></ul></li>
+        <li class="head">QUAILIFICATIONS</li>
+        <li><ul id="js-qualifications"></ul></li>
+        <li class="head">ADDITIONAL INFORMATION</li>
+        <li><span id="js-additional"></span></li>
+        <li class="head">DISCLAIMER</li>
+        <li><span id="js-disclaimer"></span></li>
+        <li class="head">BENEFITS</li>
+        <li><span id="js-benefits"></span></li>
+        <li><span id="js-legal"></span></li>
+        <li><a href="#apply"><div class="button bk-darkred center">apply for job</div></a></li>
+        <li><a href="jobsearch.html"><div class="button bk-darkred center">back to listings</div></a></li>
+      </ul>
     </article>
 
     <!--Begin Footer-->
