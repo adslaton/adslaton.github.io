@@ -9,9 +9,8 @@ header {
 
 article {
 	border-top: 1px solid black;
-	border-bottom: 1px solid black;
 	margin-bottom: 20px;
-	padding: 20px 5px;
+	padding: 20px 5px 0px;
 }
 
 .iblock {
@@ -42,7 +41,8 @@ article {
 	}
 
 	article	{
-		border: 1px solid black;
+		border: 1px dotted black;
+		padding-bottom: 20px;
 	}
 
 	.iblock {
