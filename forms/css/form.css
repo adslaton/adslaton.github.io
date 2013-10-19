@@ -8,7 +8,8 @@ header {
 }
 
 article {
-	border: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 	margin-bottom: 20px;
 	padding: 20px 5px;
 }
@@ -25,7 +26,7 @@ article {
 .line {
 	height: 25px;
 	font-size: 18px;
-	width: 100%;
+	width: 99%;
 }
 
 .button {
@@ -38,6 +39,10 @@ article {
 @media (min-width: 980px) {
 	section {
 		font-size: 20px;
+	}
+
+	article	{
+		border: 1px solid black;
 	}
 
 	.iblock {
