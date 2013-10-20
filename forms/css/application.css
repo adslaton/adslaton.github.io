@@ -1,5 +1,5 @@
 section {
-	max-width: 960px;
+	width: 960px;
 	margin: 0 auto;
 }
 
@@ -15,5 +15,44 @@ ul {
 input {
 	border: 0;
 	border-bottom: 1px solid black;
+	background-color: beige;
 }
 
+h2 {
+	margin: 0px;
+	padding: 20px 0;
+}
+
+.tabs {
+	margin-bottom: 0px;
+}
+
+.tabs li {
+	display: inline-block;
+	padding: 10px;
+	border: 1px dotted black;
+	border-bottom: 0px;
+	text-align: center;
+}
+
+.tabs li:hover {
+	background-color: yellow;
+	cursor: pointer;
+}
+
+.tab {
+	display: none;
+	border: 1px dotted black;
+	background-color: beige;
+	padding: 0 20px 20px;
+}
+
+.active {
+	display: block;
+}
+
+.tabs .show {
+	background-color: beige;
+	height: 20px;
+	margin-bottom: -2px;
+}
