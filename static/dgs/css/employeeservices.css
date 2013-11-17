@@ -1,0 +1,920 @@
+#employeeservicestext p {
+	font: 28px/30px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+#employeeservicestext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 3;
+	width: 262px;
+	height: 42px;
+}
+#employeeservices {
+	margin: 0px auto 0px auto;
+	width: 973px;
+	position: relative;
+}
+#getstartedbutton {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 529px;
+	z-index: 3;
+	width: 98px;
+	height: 18px;
+}
+#getstartedbutton2 {
+	background: url('http://deltaglobalstaffing.com/images/getstartedbutton.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 580px;
+	z-index: 3;
+	width: 98px;
+	height: 18px
+}
+#maincopy1text p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+}
+#maincopyRtext p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+}
+#box {
+	background: url('http://deltaglobalstaffing.com/images/box.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+	width: 973px;
+	height: 820px;
+}
+#maincopy1text {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 252px;
+	z-index: 3;
+	width: 400px;
+}
+#maincopyRtext {
+	visibility: visible;
+	position: absolute;
+	left: 755px;
+	top: 252px;
+	z-index: 3;
+	width: 180px;
+	margin-left: 28px;
+}
+#searchbutton #form1 img {
+	vertical-align: middle;
+}
+a {
+}
+#searchbutton {
+	visibility: visible;
+	position: absolute;
+	left: 711px;
+	top: 87px;
+	z-index: 5;
+	width: 256px;
+	height: 46px;
+	/* width: 73px;*/
+}
+#mainnavbar {
+	visibility: visible;
+	position: absolute;
+	left: -2px;
+	top: 127px;
+	z-index: 20;
+	width: 971px;
+	height: 39px;
+}
+#midtext p {
+	font: italic 19px/23px "aslon Pro";
+	margin: 0px;
+	color: #BD0C1E;
+	text-align: left;
+}
+#lefimage {
+	background: url('http://deltaglobalstaffing.com/images/lefimage.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 162px;
+	z-index: 2;
+	width: 375px;
+	height: 599px
+}
+#deltalogo {
+	background: url('http://deltaglobalstaffing.com/images/deltalogo.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 785px;
+	top: 70px;
+	z-index: 3;
+	width: 166px;
+	height: 35px
+}
+#dgslogo {
+	background: url('http://deltaglobalstaffing.com/images/dgslogo.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 36px;
+	top: 49px;
+	z-index: 4;
+	width: 280px;
+	height: 64px
+}
+#midtext {
+	visibility: visible;
+	position: absolute;
+	left: 347px;
+	top: 70px;
+	z-index: 19;
+	width: 351px;
+}
+html, body {
+	padding: 0px;
+	margin: 0px;
+	background-image: url('http://deltaglobalstaffing.com/images/bg.jpg');
+	background-repeat: repeat-x;
+	color:white;
+}
+Begin client Services styles #clientmaintexttext p, #leftcopytext p {
+	font: 11px/18px Arial;
+	margin: 0px;
+	color: #535353;
+	text-align: left;
+}
+#clientmainheadertext p {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+#clientmainheadertext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 2;
+	width: 208px;
+}
+#clientmaintexttext {
+	visibility: visible;
+	position: absolute;
+	left: 382px;
+	top: 242px;
+	z-index: 3;
+	width: 562px;
+}
+#valueheadertext p {
+	font: italic 16px/20px Arial;
+	margin: 0px;
+	color: #007ABB;
+	letter-spacing: 0px;
+	text-align: left;
+}
+#getstartedbutton {
+	background: url('http://deltaglobalstaffing.com/clientservicesmedia/getstartedbutton.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 651px;
+	z-index: 2;
+	width: 98px;
+	height: 18px
+}
+#valueheadertext {
+	visibility: visible;
+	position: absolute;
+	left: 60px;
+	top: 470px;
+	z-index: 3;
+	width: 216px;
+}
+#clientleftphoto {
+	background: url('http://deltaglobalstaffing.com/images/clientleftphoto.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 166px;
+	z-index: 4;
+	width: 348px;
+	height: 267px
+}
+#leftsmallbox {
+	background: url('http://deltaglobalstaffing.com/images/leftsmallbox.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 34px;
+	top: 446px;
+	z-index: 2;
+	width: 290px;
+	height: 184px
+}
+#leftcopytext {
+	visibility: visible;
+	position: absolute;
+	left: 49px;
+	top: 491px;
+	z-index: 3;
+	width: 253px;
+}
+#background {
+	margin: 0px auto;
+	background: url('http://deltaglobalstaffing.com/clientservicesmedia/background.jpg') no-repeat;
+	visibility: visible;
+	height: 820px;
+	width: 1024px;
+	position: relative
+}
+#mainclientcopytext p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	color: #535353;
+	text-align: left;
+}
+#mainclientcopytext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 252px;
+	z-index: 2;
+	width: 562px;
+}
+#bottomlegaltext {
+	visibility: visible;
+	position: absolute;
+	left: 615px;
+	top: 1100px;
+	z-index: 16;
+	width: 325px;
+}
+#bottomlegaltext p {
+	font: 11px/17px Arial;
+	margin: 0px;
+	color: #3F3F3F;
+	text-align: right;
+}
+#bottomlegaltext2 {
+	visibility: visible;
+	position: absolute;
+	left: 615px;
+	top: 792px;
+	z-index: 16;
+	width: 325px;
+}
+#bottomlegaltext2 p {
+	font: 11px/17px Arial;
+	margin: 0px;
+	color: #3F3F3F;
+	text-align: right;
+}
+
+benefits css #benefitsmaincopytext p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	color: #535353;
+	text-align: left;
+}
+#benefitsmaincopytext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 243px;
+	z-index: 3;
+	width: 562px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	color: #535353;
+}
+#staffingbenefits {
+	margin: 0px auto 0px auto;
+	width: 976px;
+	position: relative;
+}
+#benefitsshading {
+	background: url('http://deltaglobalstaffing.com/staffingbenefitsmedia/benefitsshading.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 3px;
+	top: 13px;
+	z-index: 1;
+	width: 973px;
+	height: 777px
+}
+#benefitstext p {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+#benefitstext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 3;
+	width: 112px;
+}
+#bleftimage {
+	background: url('http://deltaglobalstaffing.com/images/bleftimage.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 162px;
+	z-index: 2;
+	width: 352px;
+	height: 595px
+}
+#employeeservices #benefitsmaincopytext p {
+	color: #535353;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+}
+#employeeservices #benefitsmaincopytext span {
+	color: #535353;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: normal;
+}
+resources css #helpfulresourcestext p {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+#gridbox {
+	background: url('http://deltaglobalstaffing.com/images/gridbox.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 259px;
+	z-index: 7;
+	width: 597px;
+	height: 190px
+}
+#helpfulresourcestext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 3;
+	width: 262px;
+	height: 42px;
+}
+#resleftheadertext p {
+	font: italic 16px/20px Arial;
+	margin: 0px;
+	color: #007ABB;
+	letter-spacing: 0px;
+	text-align: left;
+}
+#staffingresources2 {
+	margin: 0px auto 0px auto;
+	width: 976px;
+	position: relative;
+}
+#resleftheadertext {
+	visibility: visible;
+	position: absolute;
+	left: 49px;
+	top: 464px;
+	z-index: 17;
+	width: 278px;
+}
+#leftcopyrestext p {
+	font: 11px/18px Arial;
+	margin: 0px;
+	color: #535353;
+	text-align: left;
+	margin-top: 4px;
+}
+#leftcopyrestext {
+	visibility: visible;
+	position: absolute;
+	left: 49px;
+	top: 520px;
+	z-index: 18;
+	width: 242px;
+}
+#jobinterviewnet {
+	visibility: visible;
+	position: absolute;
+	left: 668px;
+	top: 386px;
+	z-index: 13;
+	width: 119px;
+	height: 33px;
+}
+#provenresumes {
+	visibility: visible;
+	position: absolute;
+	left: 815px;
+	top: 294px;
+	z-index: 11;
+	width: 120px;
+	height: 33px;
+}
+#resleftphoto {
+	background: url('http://deltaglobalstaffing.com/images/resleftphoto.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 158px;
+	z-index: 6;
+	width: 335px;
+	height: 271px
+}
+#careerdesign {
+	visibility: visible;
+	position: absolute;
+	left: 520px;
+	top: 372px;
+	z-index: 12;
+	width: 119px;
+	height: 61px;
+}
+#resleftbox {
+	background: url('http://deltaglobalstaffing.com/images/resleftbox.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 34px;
+	top: 446px;
+	z-index: 15;
+	width: 290px;
+	height: 184px
+}
+#id2shading {
+	background: url('http://deltaglobalstaffing.com/images/id2shading.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 3px;
+	top: 13px;
+	z-index: 1;
+	width: 973px;
+	height: 777px
+}
+#rockport {
+	visibility: visible;
+	position: absolute;
+	left: 376px;
+	top: 291px;
+	z-index: 9;
+	width: 115px;
+	height: 34px;
+}
+#fidelity {
+	visibility: visible;
+	position: absolute;
+	left: 387px;
+	top: 391px;
+	z-index: 14;
+	width: 93px;
+	height: 23px;
+}
+#jobstar {
+	visibility: visible;
+	position: absolute;
+	left: 519px;
+	top: 293px;
+	z-index: 10;
+	width: 119px;
+	height: 33px;
+}
+#delta {
+	visibility: visible;
+	position: absolute;
+	left: 667px;
+	top: 287px;
+	z-index: 8;
+	width: 119px;
+	height: 34px;
+}
+
+#ToomahLogoSmall {
+	visibility: visible;
+	position: absolute;
+	left: 815px;
+	top: 385px;
+	z-index: 8;
+	width: 119px;
+	height: 37px;
+}
+- job form --- #formtest2form fieldset *:last-child, #formtestform fieldset *:last-child {
+	margin-bottom: 0;
+}
+#formtest2form fieldset, #formtestform fieldset {
+	border: none;
+}
+#jobformleftcopytext {
+	visibility: visible;
+	position: absolute;
+	left: 69px;
+	top: 520px;
+	z-index: 4;
+	width: 242px;
+}
+#jobformtoptxttext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 252px;
+	z-index: 3;
+	width: 562px;
+}
+#knowtxttext p {
+	font: italic 16px/19px Arial, Helvetica, sans-serif;
+	margin: 0px;
+	color: #007ABB;
+	letter-spacing: 0px;
+	text-align: left;
+}
+#formtest2form {
+	visibility: visible;
+	position: absolute;
+	left: 655px;
+	top: 297px;
+	z-index: 4;
+	width: 231px;
+}
+#formtestform {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 320px;
+	z-index: 4;
+	width: 551px;
+}
+#canheader {
+	font: 28px/30px Tahoma;
+	color: #55AEDD;
+	text-align: left;
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 3;
+	width: 422px;
+	height: 35px;
+}
+#canheader p {
+	font: 28px/35px Tahoma;
+	margin: 0px;
+	color: #54AFDE;
+	text-align: left;
+}
+#knowtxttext {
+	visibility: visible;
+	position: absolute;
+	left: 49px;
+	top: 464px;
+	z-index: 4;
+	width: 268px;
+}
+#jobformbox {
+	background: url('http://deltaglobalstaffing.com/images/jobformbox.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 34px;
+	top: 446px;
+	z-index: 3;
+	width: 290px;
+	height: 184px
+}
+/*#background  {
+   margin: 0px auto 0px auto;
+   background: url(formtest2media/background.jpg) no-repeat;
+   visibility: visible;
+   height: 820px;
+   width: 1024px;
+   position: relative;
+}*/
+#id1shading {
+	background: url('http://deltaglobalstaffing.com/formtest2media/id1shading.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 2;
+	width: 1024px;
+	height: 790px
+}
+#subform {
+	visibility: visible;
+	position: absolute;
+	left: 543px;
+	top: 623px;
+	z-index: 4;
+	width: 150px;
+	height: 52px;
+}
+#formlft {
+	background: url('http://deltaglobalstaffing.com/images/jobformleft.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 162px;
+	z-index: 3;
+	width: 342px;
+	height: 267px
+}
+#formlft2 {
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 158px;
+	z-index: 3;
+	background-image: url('http://deltaglobalstaffing.com/images/can_leftimage.jpg');
+	background-repeat: no-repeat;
+	height: 283px;
+	width: 324px
+}
+a {
+	text-decoration: none;
+	color: #000000;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a ins {
+	text-decoration: none;
+}
+#formtestform fieldset div label, #formtest2form fieldset div label {
+	margin-right: 1em;
+	display: block;
+	text-align: right;
+	float: left;
+}
+#formtestform fieldset div, #formtest2form fieldset div {
+	font: 10px/18px Arial;
+	color: #666666;
+	clear: both;
+}
+#formtest2form p, #formtestform p, #subform p {
+	font: 11px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #666666;
+}
+#jobformtoptxttext p, #jobformleftcopytext p, #jobformleftcopytext {
+	font: 11px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+	margin-top: 2px;
+	left: 49px;
+}
+select {
+	font: 13px/18px Arial;
+	color: #535353;
+}
+img {
+	border: none;
+}
+#formtest2form fieldset div label {
+	width: 49px;
+}
+#formtestform fieldset div label {
+}
+.centerac {
+	text-align: center;
+}
+fieldset * {
+	margin-left: 0;
+	margin-right: 0;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+#helpfulresourcestext p {
+	font: 28px/30px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+- about #aboutusmaincontenttext p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+}
+#aboutusmaincontenttext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 252px;
+	z-index: 3;
+	width: 562px;
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+	height: 407px;
+}
+#aboutusheadertext p {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #54AFDE;
+	text-align: left;
+}
+#aboutusheadertext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 200px;
+	z-index: 3;
+	width: 130px;
+}
+#aboutusleftimage {
+	background: url('http://deltaglobalstaffing.com/images/aboutusleftimage.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 162px;
+	z-index: 3;
+	width: 339px;
+	height: 579px
+}
+contact #contactusmaincopytext p a:hover {
+	font-style: italic;
+}
+#contactusmaincopytext p a {
+	font-style: Normal;
+	color: #004281;
+}
+#contactusmaincopytext p {
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+}
+#contactusmaincopytext {
+	visibility: visible;
+	position: absolute;
+	left: 382px;
+	top: 242px;
+	z-index: 3;
+	width: 562px;
+}
+#contactusheadertext p {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+}
+#contactusheadertext {
+	visibility: visible;
+	position: absolute;
+	left: 355px;
+	top: 202px;
+	z-index: 3;
+	width: 154px;
+}
+#contactusleftimage {
+	background: url('http://deltaglobalstaffing.com/images/contactusleftimage.jpg') no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 7px;
+	top: 162px;
+	z-index: 3;
+	width: 342px;
+	height: 266px
+}
+#formleft {
+	width: 270px;
+	float: left;
+}
+#formright {
+	width: 280px;
+	float: right;
+}
+.submit {
+	text-align: center;
+	visibility: visible;
+	position: absolute;
+	left: 500px;
+	top: 392px;
+	z-index: 3;
+}
+#clientmainheadertext h1, #canheader h1, #employeeservicestext h1, #canheader h1, #benefitstext h1, #helpfulresourcestext h1, #aboutusheadertext h1, #contactusheadertext h1 {
+	font: 28px/21px Tahoma;
+	margin: 0px;
+	color: #55AEDD;
+	text-align: left;
+	left: 355px;
+	top: 200px;
+	font-weight: lighter;
+	line-height: 40px;
+}
+/* h2 */
+#knowtxttext h2, #valueheadertext h2, #helpfulresourcestext h2, #resleftheadertext h2, #resleftheadertext h2 {
+	font: italic 15px/19px Arial, Helvetica, sans-serif;
+	margin: 0px;
+	color: #007ABB;
+	letter-spacing: 0px;
+	text-align: left;
+}
+#jobboard h3, #maincopyRtext h3, #maincopy2text h3, #mainclientcopytext h3, #jobformtoptxttext h3, #knowtxttext h3, #maincopy1text h3, #benefitsmaincopytext h3, #resleftheadertext h3, #aboutusmaincontenttext h3, #resleftheadertext h3, #contactusmaincopytext h3 {
+	margin: 0px;
+	color: #00417B;
+	font-size: 8pt;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#jobboard {
+	visibility: visible;
+	position: absolute;
+	left: 30px;
+	top: 252px;
+	z-index: 3;
+	width: 900px;
+	font: 13px/18px Arial;
+	margin: 0px;
+	text-align: left;
+	color: #535353;
+	height: 450px;
+}
+#formcopy {
+	visibility: visible;
+	position: absolute;
+	left: 50px;
+	top: 252px;
+	z-index: 3;
+	width: 862px;
+	font-size: 1.1em;
+}
+#formcopymain {
+	visibility: visible;
+	position: absolute;
+	left: 50px;
+	top: 252px;
+	z-index: 3;
+	width: 862px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #4d4d4f;
+}
+#formcopymain p{
+	border-bottom:1px dotted gray; font-size: .8em;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	color: #4D4D4F;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	solid;
+	padding-bottom: 7px
+}
+.sub-nav {
+	margin: 0;
+	visibility: visible;
+	padding: 0px 0px 0 0;
+	position: absolute;
+	left: 790px;
+	top: 108px;
+	z-index: 3;
+	height: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	list-style: none;
+	overflow: visible;
+	height: 1%;
+	width: 180px;
+}
+.sub-nav li {
+	background: url('http://deltaglobalstaffing.com/images/separator.gif') no-repeat 0 5px;
+	/*margin: 0 2px 0 -2px;*/
+	float: left;
+	display: inline; padding-left:8px; padding-right:8px; padding-top:0; padding-bottom:0
+}
+a:link {
+	color: #006bb5;
+	text-decoration: underline;
+}
+a:visited {
+	color: #71a2c3;
+	text-decoration: underline;
+}
+a:hover {
+	color: #00417B;
+}
