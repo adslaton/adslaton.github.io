@@ -14,7 +14,7 @@ This is an [Express][expressjs] web application.
 - Follow the instructions from the [Node][nodejs] site.
 
 
-### Install the packages from the app root
+### Install the npm packages
 
 ```
 $ npm install
@@ -22,6 +22,12 @@ $ npm install
 or
 ```
 $ npm i
+```
+
+### Run the app
+
+```
+$npm start
 ```
 
 
