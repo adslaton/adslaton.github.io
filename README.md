@@ -17,13 +17,6 @@ This is an [Express][expressjs] web application.
 - Follow the instructions from the [Node][nodejs] site.
 
 
-### Install Bundler
-
-```
-$ sudo gem install bundler
-```
-
-
 ### Install Grunt
 
 ```

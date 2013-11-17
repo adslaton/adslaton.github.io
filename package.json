@@ -4,7 +4,7 @@
     "description": "A test node application.",
     "private": false,
     "scripts": {
-        "test": "grunt"
+        "start": "node app.js"
     },
     "repository": {
         "type": "git",
@@ -22,7 +22,8 @@
     "readmeFilename": "README.md",
     "dependencies": {
         "express": "3.3.4",
-        "handlebars": "1.1.2"
+        "handlebars": "1.1.2",
+        "debug": "0.7.2"
     },
     "engines": {
         "node": "0.10.x",
