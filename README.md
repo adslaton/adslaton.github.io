@@ -5,9 +5,6 @@ This is an [Express][expressjs] web application.
 ## Prerequisites
 
 - [Node][nodejs] v0.10.x
-- [Bundler][bundler] v1.3.x
-- [Grunt][gruntjs] v0.4.x
-- [Compass][compass] v0.12.x
 
 
 ## Native Installation (OS X/Linux)
@@ -17,17 +14,17 @@ This is an [Express][expressjs] web application.
 - Follow the instructions from the [Node][nodejs] site.
 
 
-### Install Grunt
+### Install the packages from the app root
 
 ```
-$ sudo npm install -g grunt-cli
+$ npm install
+```
+or
+```
+$ npm i
 ```
 
 
 [expressjs]: http://expressjs.com/
 [nodejs]: http://nodejs.org/
-[gruntjs]: http://gruntjs.com/
-[bundler]: http://bundler.io/
-[compass]: http://compass-style.org/install/
-[sass]: http://sass-lang.com/
 [jslint]: http://www.jslint.com/
