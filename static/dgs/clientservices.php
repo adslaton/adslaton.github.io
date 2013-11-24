@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="js/global.js"></script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <title>Delta Global Staffing</title>
-<link href="css/employeeservices.css" media="screen, print, projection" rel="stylesheet" type="text/css">
+<link href="/employeeservices.css" media="screen, print, projection" rel="stylesheet" type="text/css">
 </link>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
-<script src="js/global.js"></script>
 <script type="text/javascript">
 <!--
 function MM_preloadImages() { //v3.0
@@ -113,7 +113,7 @@ pre { display:none }
 div.newsclass
   {
   width:260px;
-  background:url(http://deltaglobalstaffing.com/images/newsblogindustry.png) no-repeat;
+  background:url(images/newsblogindustry.png) no-repeat;
   border:0px solid black;
   overflow:hidden;
   }
@@ -154,9 +154,9 @@ div.transbox p
 
 </head>
 
-<body onload="MM_preloadImages('http://deltaglobalstaffing.com/images/nav_highlights_01.png','http://deltaglobalstaffing.com/images/nav_highlights_02.png','http://deltaglobalstaffing.com/images/nav_highlights_03.png','http://deltaglobalstaffing.com/images/nav_highlights_04.png','http://deltaglobalstaffing.com/images/nav_highlights_05.png','http://deltaglobalstaffing.com/images/nav_highlights_06.png')">
+<body onload="MM_preloadImages('/images/nav_highlights_01.png','/images/nav_highlights_02.png','/images/nav_highlights_03.png','/images/nav_highlights_04.png','/images/nav_highlights_05.png','/images/nav_highlights_06.png')">
 <!--Begin Header-->
-	<div id="header"><img src="http://deltaglobalstaffing.com/images/header.jpg" alt="DGS - Experience the Difference" width="930" height="119" border="0" usemap="#Map" />
+	<div id="header"><img src="images/header.jpg" alt="DGS - Experience the Difference" width="930" height="119" border="0" usemap="#Map" />
   	<map name="Map" id="Map">
 <area shape="rect" coords="815,85,839,109" href="http://www.facebook.com/DeltaGlobalStaffingDifference" alt="Facebook" title="Facebook"    />
 <area shape="rect" coords="844,87,865,110" href="http://www.twitter.com/deltaglobal" alt="Twitter" title="Twitter"    />
@@ -173,18 +173,18 @@ div.transbox p
 
       <table border="0" cellspacing="0" cellpadding="0">
   <tr >
-    <td width="10" align="left" valign="top"><img src="http://deltaglobalstaffing.com/images/nav_bckgrnd.jpg" width="10" height="54" /></td>
-    <td width="57" align="left" valign="top"><a href="/index.php"><img src="http://deltaglobalstaffing.com/images/bttns/home.jpg" alt="Home" width="57" height="54" /></a></td>
-    <td width="99" align="left" valign="top"><a href="/clientservices.php"><img src="http://deltaglobalstaffing.com/images/bttns/employers.jpg" alt="Employers" width="99" height="54" /></a></td>
-    <td width="104" align="left" valign="top"><a href="/job_board.php"><img src="http://deltaglobalstaffing.com/images/bttns/job_search.jpg" alt="Job Search" width="104" height="54" /></a></td>
-    <td width="101" align="left" valign="top"><a href="/resources.php"><img src="http://deltaglobalstaffing.com/images/bttns/resources.jpg" alt="Resources" width="101" height="54" /></a></td>
-    <td width="60" align="left" valign="top"><a href="/news.php"><img src="http://deltaglobalstaffing.com/images/bttns/news.jpg" alt="News" width="60" height="54" /></a></td>
-    <td width="87" align="left" valign="top"><a href="/aboutus.php"><img src="http://deltaglobalstaffing.com/images/bttns/whoweare.jpg" alt="About Us" width="87" height="54" /></a></td>
-    <td width="102" align="left" valign="top"><a href="/contactus.php"><img src="http://deltaglobalstaffing.com/images/bttns/contact_us.jpg" alt="Contact Us" width="102" height="54" /></a></td>
-    <td width="131" align="left" valign="top"><img src="http://deltaglobalstaffing.com/images/nav_bckgrnd.jpg" width="131" height="54" /></td>
-    <td width="57" align="left" valign="top"><a href="/MyDGS_Entry/MyDGSHome.htm" target="_blank"><img src="http://deltaglobalstaffing.com/images/bttns/my_DGS.jpg" alt="My DGS" width="57" height="54" /></a></td>
-    <td width="90" align="left" valign="top"><a href="http://tkdelta.vcgasp.com/timekeeper.web/pages/timekeeperlogin.aspx" target="_blank"><img src="http://deltaglobalstaffing.com/images/bttns/ETime_login.jpg" alt="ETime Login" width="90" height="54" /></a></td>
-    <td width="32" align="left" valign="top"><img src="http://deltaglobalstaffing.com/images/nav_bckgrnd.jpg" width="32" height="54" /></td>
+    <td width="10" align="left" valign="top"><img src="images/nav_bckgrnd.jpg" width="10" height="54" /></td>
+    <td width="57" align="left" valign="top"><a href="/index.php"><img src="images/bttns/home.jpg" alt="Home" width="57" height="54" /></a></td>
+    <td width="99" align="left" valign="top"><a href="/clientservices.php"><img src="images/bttns/employers.jpg" alt="Employers" width="99" height="54" /></a></td>
+    <td width="104" align="left" valign="top"><a href="/job_board.php"><img src="images/bttns/job_search.jpg" alt="Job Search" width="104" height="54" /></a></td>
+    <td width="101" align="left" valign="top"><a href="/resources.php"><img src="images/bttns/resources.jpg" alt="Resources" width="101" height="54" /></a></td>
+    <td width="60" align="left" valign="top"><a href="/news.php"><img src="images/bttns/news.jpg" alt="News" width="60" height="54" /></a></td>
+    <td width="87" align="left" valign="top"><a href="/aboutus.php"><img src="images/bttns/whoweare.jpg" alt="About Us" width="87" height="54" /></a></td>
+    <td width="102" align="left" valign="top"><a href="/contactus.php"><img src="images/bttns/contact_us.jpg" alt="Contact Us" width="102" height="54" /></a></td>
+    <td width="131" align="left" valign="top"><img src="images/nav_bckgrnd.jpg" width="131" height="54" /></td>
+    <td width="57" align="left" valign="top"><a href="/MyDGS_Entry/MyDGSHome.htm" target="_blank"><img src="images/bttns/my_DGS.jpg" alt="My DGS" width="57" height="54" /></a></td>
+    <td width="90" align="left" valign="top"><a href="http://tkdelta.vcgasp.com/timekeeper.web/pages/timekeeperlogin.aspx" target="_blank"><img src="images/bttns/ETime_login.jpg" alt="ETime Login" width="90" height="54" /></a></td>
+    <td width="32" align="left" valign="top"><img src="images/nav_bckgrnd.jpg" width="32" height="54" /></td>
   </tr>
 </table>
 
@@ -230,7 +230,7 @@ We offer customized and cost efficient staffing solutions to local, regional and
 Any business or organization who has or needs employees is a potential customer, regardless of industry. We're about people. Our clients are as diverse as our solutions.
 
 </td>
-<td width="200" style="padding-top:20px;"><img src="http://deltaglobalstaffing.com/images/BPTWLogo_Top25.jpg" width="150"><div style="color:white;font-weight:bold;padding-top:30px;font-size:12px;line-height:25px;">Named one of Atlanta's Top 25 Temporary Employment Agencies for 9 straight years.</div></td>
+<td width="200" style="padding-top:20px;"><img src="/images/BPTWLogo_Top25.jpg" width="150"><div style="color:white;font-weight:bold;padding-top:30px;font-size:12px;line-height:25px;">Named one of Atlanta's Top 25 Temporary Employment Agencies for 9 straight years.</div></td>
 </tr>
 </table>
 <form action="clientservices_email.php" method="post" name="frm" id="frm">
@@ -276,8 +276,8 @@ Any business or organization who has or needs employees is a potential customer,
   <div id="footer">
     <div id="footerCopyright">&copy; 2012 Delta Global Staffing. All Rights Reserved.</div>
            	<div id="footerLogos">
-        <img src="http://deltaglobalstaffing.com/images/logo_ASA.jpg" alt="ASA" />
-        <img src="http://deltaglobalstaffing.com/images/logo_2.jpg" />
+        <img src="images/logo_ASA.jpg" alt="ASA" />
+        <img src="images/logo_2.jpg" />
     </div>
 
     </div>
@@ -292,17 +292,5 @@ Any business or organization who has or needs employees is a potential customer,
 </div>
 <div style="height:500px;"></div>
 
-<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
-<script type='text/javascript' src='https://oasis7.carrierzone.com/app/count_server/count.js'></script>
-<script type='text/javascript'><!--
-wm_custnum='a87160c5f5f55d51';
-wm_page_name='clientservices.php';
-wm_group_name='/services/webpages/d/e/deltaglobalstaffing.com/public';
-wm_campaign_key='campaign_id';
-wm_track_alt='';
-wiredminds.count();
-// -->
-</script>
-<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
 </body>
 </html>
