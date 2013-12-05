@@ -52,7 +52,7 @@
           <ul>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/IT.gif">
               </div>
               <div class="category-text">
                 Information Technology
@@ -60,7 +60,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/intl.gif">
               </div>
               <div class="category-text">
                 Human Resources
@@ -68,7 +68,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/tech_op.gif">
               </div>
               <div class="category-text">
                 Maintenance / Mechanic
@@ -76,7 +76,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/intl.gif">
               </div>
               <div class="category-text">
                 Market / Sales
@@ -84,7 +84,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/baggage_handler.gif">
               </div>
               <div class="category-text">
                 Warehouse / Transportation
@@ -92,7 +92,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/flight_attendants.gif">
               </div>
               <div class="category-text">
                 Business / Professional
@@ -100,7 +100,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/ticketing.gif">
               </div>
               <div class="category-text">
                 Customer Service
@@ -108,7 +108,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/co-op_opp.gif">
               </div>
               <div class="category-text">
                 Management
@@ -116,7 +116,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/dccu.gif">
               </div>
               <div class="category-text">
                 Finance / Accounting
@@ -124,7 +124,7 @@
             </li></a>
             <a href="#"><li class="category">
               <div class="category-image">
-                <img src="http://www.deltajobs.net/img/career_destinations/corporate.gif">
+                <img src="/images/intl.gif">
               </div>
               <div class="category-text">
                 Admin / Executive Asst / Clerical

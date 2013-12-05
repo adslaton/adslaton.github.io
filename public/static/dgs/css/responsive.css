@@ -238,8 +238,11 @@ select {
 }
 
 .category-image {
-	width: 80px;
 	margin-right: 10px;
+}
+
+.category-image img {
+	width: 80px;
 }
 
 .category-text {

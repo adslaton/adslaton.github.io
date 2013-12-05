@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.deltaglobalstaffing.com/index.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/clientservices.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/job_board.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/resources.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/news.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/aboutus.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/contactus.php</loc>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/MyDGS_Entry/MyDGSHome.htm</loc>
+  <lastmod>2012-08-16T10:23:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.deltaglobalstaffing.com/admin_login.php</loc>
+</url>
+</urlset>

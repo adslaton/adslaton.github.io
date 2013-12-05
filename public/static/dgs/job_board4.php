@@ -193,24 +193,24 @@ Job Search
 <table width="600" border="0" cellpadding="0" cellspacing="0" style="color:white;">
 <!-- <tr><td colspan="2" align="center">Job Categories</td></tr> -->
 <tr valign="top">
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Information Technology</a></td>
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Business/Professional</a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/IT.gif"></div><div style="display:inline-block;width:200px;">Information Technology</div></a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/flight_attendants.gif"></div><div style="display:inline-block;width:200px;">Business / Professional</div></a></td>
 </tr>
 <tr valign="top">
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Human Resources</a></td>
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Customer Service</a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/intl.gif"></div><div style="display:inline-block;width:200px;">Human Resources</div></a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/ticketing.gif"></div><div style="display:inline-block;width:200px;">Customer Service</div></a></td>
 </tr>
 <tr valign="top">
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Maintenance/Mechanic</a></td>
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Management</a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/tech_op.gif"></div><div style="display:inline-block;width:200px;">Maintenance / Mechanic</div></a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/co-op_opp.gif"></div><div style="display:inline-block;width:200px;">Management</div></a></td>
 </tr>
 <tr valign="top">
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Market/Sales</a></td>
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Finance/Accounting</a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/intl.gif"></div><div style="display:inline-block;width:200px;">Market / Sales</div></a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/dccu.gif"></div><div style="display:inline-block;width:200px;">Finance / Accounting</div></a></td>
 </tr>
 <tr valign="top">
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Warehouse/Transportation</a></td>
-<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" >Admin/Executive Asst/Clerical</a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/baggage_handler.gif"></div><div style="display:inline-block;width:200px;">Warehouse / Transportation</div></a></td>
+<td width="300" align="left"><a style="color:white;font-size:18px;" href="job_board4.php?" ><div style="display:inline-block;"><img style="vertical-align:middle;width:70px;margin: 5px 10px;" src="/images/intl.gif"></div><div style="display:inline-block;width:200px;">Admin / Executive Asst / Clerical</div></a></td>
 </tr>
 </table>
 </div>
