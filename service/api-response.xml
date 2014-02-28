@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<transportListing xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<listing>
+		<txtUserID>11019</txtUserID>
+		<defaultTaxonomy datavalue_idtype="taxonomy" datavalue_displayvalue="Accommodations«Taxonomy:119»">119</defaultTaxonomy>
+		<txtDescription>
+			<div>
+				<p>Exclusive north end oceanfront, four-star oceanfront dining and lounge, weight room, jacuzzi, year-round pool, concierge level. Summertime weekday discounts. All major credit cards. Children under 18 are free. Bicycles, coffee in room, hair dryer, iron, safe in room, hot tub/whirlpool/jacuzzi in pool area and some rooms, internet access in lobby, wireless internet access in room, game room. This Wyndham is a "Virginia Green" hotel.</p>
+			</div>
+		</txtDescription>
+		<txtAddress1>5700 Atlantic Ave.</txtAddress1>
+		<txtAddress2 />
+		<txtLatitude>36.8830543</txtLatitude>
+		<txtLongitude>-75.9857580</txtLongitude>
+		<txtCity>Virginia Beach</txtCity>
+		<txtState>VA</txtState>
+		<txtZip>23451</txtZip>
+		<txtPhone>(757) 428-7025</txtPhone>
+		<txtPhoneDescription /><txtFax />
+		<txtEmail>cwaddell@wyndham.com</txtEmail>
+		<txtEmailDescription />
+		<txtWebsiteURL>http://www.wyndham.com/</txtWebsiteURL>
+		<txtWebsiteURLDescription />
+		<txtPhone2>(800) 365-3032</txtPhone2>
+		<txtPhone2Description />
+		<txtEmail2 />
+		<txtEmail2Description />
+		<txtWebsite2URL />
+		<txtWebsite2URLDescription />
+		<txtFax2 />
+		<txtPhone3 />
+		<txtPhone3Description />
+		<ImageGroup>
+			<imgImage>
+				<img src="/uploadedfiles/Content/Listings/Wyndham Hotel.jpg" alt="" />
+			</imgImage>
+			<txtImgSortOrder>0</txtImgSortOrder>
+		</ImageGroup>
+		<VideoGroup>
+			<videoField />
+		</VideoGroup>
+		<choiceCityRegion>Resort Area</choiceCityRegion>
+		<boolAdmissionFee>False</boolAdmissionFee>
+		<txtFeesDescription />
+		<boolOnlineBooking>True</boolOnlineBooking>
+		<txtBookingURL>http://www.wyndham.com/</txtBookingURL>
+		<boolHandicapAccessible>True</boolHandicapAccessible>
+		<boolChildrenWelcome>True</boolChildrenWelcome>
+		<boolVAGreen>True</boolVAGreen>
+		<diningChoiceAvgCost>Call</diningChoiceAvgCost>
+		<txtPrice />
+		<choicePrice>Deluxe</choicePrice>
+		<diningTxtHourOpen />
+		<diningTxtHourClosed />
+		<txtVenueName />
+		<accTxtTotalRooms>244</accTxtTotalRooms>
+		<accTxtTotalCommittableRooms>200</accTxtTotalCommittableRooms>
+		<accTxtTotalMeetingRooms>12</accTxtTotalMeetingRooms>
+		<accTxtLargestMeetingRoomSpace>5,218</accTxtLargestMeetingRoomSpace>
+		<accTxtTotalMeetingRoomSpace>16,000</accTxtTotalMeetingRoomSpace>
+		<accTxtMeetingURL>http://www.wyndham.com/about-us/meetings-events</accTxtMeetingURL>
+		<accChoiceHotelRate>$201 - $250</accChoiceHotelRate>
+		<accChoiceCondoRate>none specified</accChoiceCondoRate>
+		<accBoolDaily>True</accBoolDaily>
+		<accChoiceAmenities>Oceanfront</accChoiceAmenities>
+		<accChoiceAmenities>Pets Allowed</accChoiceAmenities>
+		<accChoiceRoomType>ADA Compliant</accChoiceRoomType>
+		<accTxtChildrenFreeAgeRange />
+		<accTxtSuitesNumberRooms />
+	</listing>
+	<Title>Wyndham</Title>
+	<Summary>Exclusive north end oceanfront, four-star oceanfront dining and lounge, weight room, jacuzzi, year-round pool, concierge level. Summertime weekday discounts. All major credit cards.</Summary>
+	<Status>Active</Status>
+	<TaxonomyList>
+		<string>\Visit Virginia Beach\Listings\Accommodations\Hotel / Motel</string>
+		<string>\Visit Virginia Beach\Listings\Accommodations\Meeting Hotels</string>
+	</TaxonomyList>
+</transportListing>
