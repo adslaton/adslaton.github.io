@@ -1,5 +1,5 @@
 {
-	"name": "ad-test-app",
+    "name": "ad-test-app",
     "version": "0.0.1",
     "description": "A test node application.",
     "private": false,
@@ -21,9 +21,9 @@
     "license": "none",
     "readmeFilename": "README.md",
     "dependencies": {
+        "debug": "0.7.2",
         "express": "3.3.4",
-        "handlebars": "1.1.2",
-        "debug": "0.7.2"
+        "handlebars": "1.1.2"
     },
     "engines": {
         "node": "0.10.x",
