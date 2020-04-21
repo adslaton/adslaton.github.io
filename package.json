@@ -21,7 +21,7 @@
     "license": "none",
     "readmeFilename": "README.md",
     "dependencies": {
-        "debug": "0.7.2",
+        "debug": "2.6.9",
         "express": "3.11.0",
         "handlebars": "1.1.2"
     },
